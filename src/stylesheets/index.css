@@ -6,9 +6,7 @@
     font-family: "Inter", sans-serif;
 }
 
-body {
-    background-color: rgb(15, 15, 15);
-}
+
 
 .spin {
     animation: rotation 5s linear infinite;
