@@ -50,7 +50,7 @@ We are delighted to invite you to participate in the "International Conference o
 
 </div>
 
-<span className=' mt-3 md:mt-12 text-blue-600 text-xl lg:text-4xl'>PAPER SUBMISSION</span>
+<span className='  mt-3 md:mt-12 text-blue-600 text-xl lg:text-4xl'>PAPER SUBMISSION</span>
 <span className='mt-3 md:mt-12  text-sm lg:text-2xl px-3 md:px-16 text-center' >Authors are invited to submit full-length (10 pages minimum), original, unpublished papers via the <a href="https://cmt3.research.microsoft.com/ICAIAconf2024"> <span className='text-blue-600'>https://cmt3.research.microsoft.com/ICAIAconf2024</span></a>  and an abstract of at most 200 words. Previously published papers or papers currently under review for other conferences/journals should NOT be submitted and will not be considered. Electronic submission in PDF format to the https://icaia-msit.in/ website is required. Author and contact information (name, affiliation, mailing address, telephone, fax, e-mail) must be entered during submission. All accepted papers will be published in Springer's AIS Book Series.</span>
 
 <span className='mt-3 md:mt-12 text-xl lg:text-4xl text-bold' >IMPORTANT DAYS</span>
