@@ -51,7 +51,7 @@ We are delighted to invite you to participate in the "International Conference o
 </div>
 
 <span className=' mt-3 md:mt-12 text-blue-600 text-xl lg:text-4xl'>PAPER SUBMISSION</span>
-<span className='mt-3 md:mt-12  text-sm lg:text-2xl px-3 md:px-16 text-center' >Authors are invited to submit full-length (10 pages minimum), original, unpublished papers via the <span className='text-blue-600'>https://cmt3.research.microsoft.com/ICAIAconf2024</span>  and an abstract of at most 200 words. Previously published papers or papers currently under review for other conferences/journals should NOT be submitted and will not be considered. Electronic submission in PDF format to the https://icaia-msit.in/ website is required. Author and contact information (name, affiliation, mailing address, telephone, fax, e-mail) must be entered during submission. All accepted papers will be published in Springer's AIS Book Series.</span>
+<span className='mt-3 md:mt-12  text-sm lg:text-2xl px-3 md:px-16 text-center' >Authors are invited to submit full-length (10 pages minimum), original, unpublished papers via the <a href="https://cmt3.research.microsoft.com/ICAIAconf2024"> <span className='text-blue-600'>https://cmt3.research.microsoft.com/ICAIAconf2024</span></a>  and an abstract of at most 200 words. Previously published papers or papers currently under review for other conferences/journals should NOT be submitted and will not be considered. Electronic submission in PDF format to the https://icaia-msit.in/ website is required. Author and contact information (name, affiliation, mailing address, telephone, fax, e-mail) must be entered during submission. All accepted papers will be published in Springer's AIS Book Series.</span>
 
 <span className='mt-3 md:mt-12 text-xl lg:text-4xl text-bold' >IMPORTANT DAYS</span>
 <div className=" border-solid border-b border-black my-2"></div>
@@ -94,11 +94,11 @@ We are delighted to invite you to participate in the "International Conference o
 
 
      
-         <div className="mt-8 px-4 bg-slate-100 pt-10 pb-20 ">
+         <div className="mt-2 lg:mt-8 px-4 bg-slate-100 pt-10 pb-20 ">
       <div className="grid grid-cols-6">
-        <div className=" col-start-1 col-span-3">
+        <div className=" col-start-1 col-span-4">
  
-          <div className="flex flex-col justify-center mt-4 px-8 ">
+          <div className="flex flex-col justify-center mt-2 lg:mt-4 px-8 ">
             <p className="mt-4 text-md lg:text-2xl text-gray-800">
             ICAIA 2024 Team,
             </p>
@@ -111,7 +111,7 @@ We are delighted to invite you to participate in the "International Conference o
           </div>
         </div>
       
-          <div className='col-start-5 col-span-4 justify-center items-center order-last'>
+          <div className='mt-2 col-start-5 col-span-4 justify-center items-center order-last'>
      
             <ul className="mt-2 space-y-2 ">
               <li>
